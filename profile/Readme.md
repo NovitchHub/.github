@@ -80,6 +80,6 @@ Cada perfil na plataforma é categorizado, verificado e posicionado dentro do ec
   <a href="https://github.com/NovitchHub">@NovitchHub</a>
 </p>
 
-<p align="center">
-  <sub><em>O esporte sempre foi global. A infraestrutura dele começa agora.</em></sub>
-</p>
+<div align="center">
+  <sub>© 2026 Novitch</sub>
+</div>
